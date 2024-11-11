@@ -3,7 +3,7 @@
 
 👨‍💻 I regularly work with Dart, Flutter, Android Studio, and Figma to create seamless and high-performance mobile experiences
 
-💬 Ask me about Flutter, Dart, Android development, cross-platform app integration, and UI/UX design
+💬 Ask me about Flutter, Dart, Android development, IOS development , cross-platform app integration, and UI/UX design
 
 🚀 Exploring new trends in mobile application development, including state management, UI/UX animations, and API integrations
 
