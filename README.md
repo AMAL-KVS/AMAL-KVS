@@ -1,12 +1,74 @@
-<h1 align="center">Hi 👋, I'm AMAL KVS</h1> <h3 align="center">A passionate Flutter Developer from India</h3> <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=amal-kvs&label=Profile%20views&color=0e75b6&style=flat" alt="amal-kvs" /> </p> <p align="left"> <a href="https://twitter.com/amal_kvs" target="blank"><img src="https://img.shields.io/twitter/follow/amal_kvs?logo=twitter&style=for-the-badge" alt="amal_kvs" /></a> </p>
-💻 Currently working on cutting-edge Flutter applications at Ultraviolette
+<h1 align="center">Hi 👋, I'm AMAL KVS</h1>
+<h3 align="center">🚀 Passionate Flutter Developer | Mobile App Enthusiast | UI/UX Crafter</h3>
 
-👨‍💻 I regularly work with Dart, Flutter, Android Studio, and Figma to create seamless and high-performance mobile experiences
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amal-kvs&label=Profile%20views&color=0e75b6&style=flat" alt="amal-kvs" />
+  <a href="https://twitter.com/amal_kvs" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/amal_kvs?logo=twitter&style=flat-square" alt="Twitter Follow" />
+  </a>
+</p>
 
-💬 Ask me about Flutter, Dart, Android development, IOS development , cross-platform app integration, and UI/UX design
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" />
 
-🚀 Exploring new trends in mobile application development, including state management, UI/UX animations, and API integrations
+### 💼 About Me
 
-📫 How to reach me amalvelayudhan96@gmail.com
+- 💻 Currently working on cutting-edge Flutter applications at **Ultraviolette**
+- 🌱 Exploring advanced **UI/UX**, **state management**, and **native integrations**
+- 🛠️ I specialize in **Flutter**, **Dart**, **Android**, **iOS**, and **cross-platform development**
+- 🎨 Passionate about delivering **pixel-perfect UIs** and smooth **user experiences**
+- 📫 Reach me at **amalvelayudhan96@gmail.com**
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://twitter.com/amal_kvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amal_kvs" height="30" width="40" /></a> <a href="https://linkedin.com/in/amal_kvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amal_kvs" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/amal_kvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="amal_kvs" height="30" width="40" /></a> <a href="https://fb.com/amal_kvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="amal_kvs" height="30" width="40" /></a> <a href="https://instagram.com/amal_kvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amal_kvs" height="30" width="40" /></a> <a href="https://www.youtube.com/c/amal_kvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="amal_kvs" height="30" width="40" /></a> <a href="https://www.leetcode.com/amal_kvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amal_kvs" height="30" width="40" /></a> <a href="https://discord.gg/amal_kvs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="amal_kvs" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amal-kvs&show_icons=true&locale=en&layout=compact" alt="amal-kvs" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amal-kvs&show_icons=true&locale=en" alt="amal-kvs" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amal-kvs&" alt="amal-kvs" /></p>
+---
+
+### 🌐 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amal_kvs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amal_kvs)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amal_kvs)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/amal_kvs)
+[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/amal_kvs)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/amal_kvs)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/amal_kvs)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/amal_kvs)
+
+---
+
+### 🛠️ Languages & Tools
+
+#### 🔷 Mobile & Web
+<p>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" title="Swift"/>
+  <img src="https://img.icons8.com/color/48/000000/swiftui.png" width="40" title="SwiftUI"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" title="React"/>
+</p>
+
+#### 🔶 Backend & DevOps
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" title="GoLang"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
+</p>
+
+#### 🛠️ Tools & Design
+<p>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" title="Photoshop"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" title="Android Studio"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amal-kvs&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-kvs&layout=compact&theme=radical" height="180" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-kvs&theme=radical" />
+</p>
