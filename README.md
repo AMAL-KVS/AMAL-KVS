@@ -35,7 +35,7 @@
 
 ### 🛠️ Languages & Tools
 
-#### 🔷 Mobile & Web
+#### 📱 Mobile & Web
 <p>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart"/>
@@ -43,9 +43,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" title="Swift"/>
   <img src="https://img.icons8.com/color/48/000000/swiftui.png" width="40" title="SwiftUI"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" title="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
 </p>
 
-#### 🔶 Backend & DevOps
+#### 🧠 Backend & DevOps
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" title="GoLang"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
@@ -54,10 +55,19 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
 </p>
 
-#### 🛠️ Tools & Design
+#### 🎨 Design & UI/UX
 <p>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" title="Photoshop"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-lightroom-cc.svg" width="40" title="Lightroom"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="40" title="Illustrator"/>
+</p>
+
+#### ⚙️ Tools & Platforms
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" title="Jira"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40" title="Postman"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/zoho.svg" width="40" title="Zoho"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" title="Android Studio"/>
 </p>
 
