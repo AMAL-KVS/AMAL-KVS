@@ -28,8 +28,6 @@
 <img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/dd892f7f0cd2d4d8bdabdc3d7d6ca2290b4e9f1f4d4f9a4b3b6b8c8a8b8c8a8a/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59246b50544a4e557a4c4b4c4c4c2f67397068792e676966">
 
 ## 🌌 <b>NEURAL INTERFACE PROTOCOL</b>
-
-
 graph TB
     A[🧠 Neural Core] --> B[Flutter Matrix]
     B --> C[UI Quantum Render]
@@ -55,8 +53,8 @@ graph TB
 🔗 Neural Link: amalvelayudhan96@gmail.com
 
 📊 <b>QUANTUM METRICS v2.0</b>
-<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=amal-kvs&show_icons=true&theme=dark&border_radius=25&card_width=350&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-kvs&layout=compact&theme=dark&border_radius=25&langs_count=8&card_width=350&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-kvs&theme=dark&border_radius=25&background=transparent&hide_border=true" alt="Streak" /> </p> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amal-kvs&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" /> </div>
-<div align="center"> <img src="https://komarev.com/ghpvc/?username=amal-kvs&label=Profile%20views&color=0e75b6&style=plastic" /> <br><br> <sub><b>🤖 Neural Core Active | Bengaluru Neural Hub | 2026</b></sub> </div> <!-- GitHub Activity --> <details> <summary>🚀 Recent Neural Activity</summary>
+<p align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=amal-kvs&show_icons=true&theme=dark&border_radius=25&card_width=350&hide_border=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-kvs&layout=compact&theme=dark&border_radius=25&langs_count=8&card_width=350&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-kvs&theme=dark&border_radius=25&background=transparent&hide_border=true" alt="Streak" /> </p> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=amal-kvs&theme=onedark&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=amal-kvs&label=Profile%20views&color=0e75b6&style=plastic" /> <br><br> <sub><b>🤖 Neural Core Active | Bengaluru Neural Hub | 2026</b></sub> </div>
+<details> <summary>🚀 Recent Neural Activity</summary>
 text
 - Currently hacking Flutter neural networks at !!!
 
@@ -66,4 +64,4 @@ Neural Focus Areas:
 -  Native Cyber Integrations
 -  Animation Warp Drives
 -  Cross-platform HoloBridge
-</details> <!-- Spotify Playing --> <details> <summary>🎵 Neural Soundwave</summary> <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user_id" /> </details> ```
+</details> <details> <summary>🎵 Neural Soundwave</summary> <img src="https://spotify-recently-played-readme.vercel.app/api?user=your_spotify_user_id" /> </details>
