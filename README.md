@@ -12,7 +12,7 @@
 
 ### 💼 About Me
 
-- 💻 Currently working on cutting-edge Flutter applications at **Ultraviolette**
+- 💻 Currently working on cutting-edge Flutter applications at **!!!**
 - 🌱 Exploring advanced **UI/UX**, **state management**, and **native integrations**
 - 🛠️ I specialize in **Flutter**, **Dart**, **Android**, **iOS**, and **cross-platform development**
 - 🎨 Passionate about delivering **pixel-perfect UIs** and smooth **user experiences**
