@@ -29,7 +29,7 @@
 
 ## 🌌 <b>NEURAL INTERFACE PROTOCOL</b>
 
-```mermaid
+
 graph TB
     A[🧠 Neural Core] --> B[Flutter Matrix]
     B --> C[UI Quantum Render]
