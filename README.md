@@ -1,84 +1,97 @@
-<h1 align="center">Hi 👋, I'm AMAL KVS</h1>
-<h3 align="center">🚀 Passionate Flutter Developer | Mobile App Enthusiast | UI/UX Crafter</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=45&pause=1000&color=79A500&center=true&vCenter=true&width=800&height=100&lines=INITIALIZING+SYSTEM...;AMAL+KVS+ONLINE;FLUTTER+ENGINEER;MOBILE+UI+SENSEI" alt="Typing SVG" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amal-kvs&label=Profile%20views&color=0e75b6&style=flat" alt="amal-kvs" />
-  <a href="https://twitter.com/amal_kvs" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/amal_kvs?logo=twitter&style=flat-square" alt="Twitter Follow" />
-  </a>
-</p>
+<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 💼 About Me
-
-- 💻 Currently working on cutting-edge Flutter applications at **!!!**
-- 🌱 Exploring advanced **UI/UX**, **state management**, and **native integrations**
-- 🛠️ I specialize in **Flutter**, **Dart**, **Android**, **iOS**, and **cross-platform development**
-- 🎨 Passionate about delivering **pixel-perfect UIs** and smooth **user experiences**
-- 📫 Reach me at **amalvelayudhan96@gmail.com**
-
----
-
-### 🌐 Connect with Me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/amal_kvs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amal_kvs)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amal_kvs)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/amal_kvs)
-[![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/amal_kvs)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/amal_kvs)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/amal_kvs)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/amal_kvs)
+<table border="0">
+  <tr>
+    <td width="60%">
+      <h3>🕹️ SYSTEM_OVERRIDE: USER_DATA</h3>
+      <p><b>🚀 CURRENT_LEVEL:</b> Engineering high-performance Flutter apps.</p>
+      <p><b>🧬 CORE_DNA:</b> Flutter Architecture, Custom Shaders, State Management Mastery.</p>
+      <p><b>🛡️ WEAPON_OF_CHOICE:</b> Dart, GoLang, Firebase, Figma.</p>
+      <p><b>📡 UPLINK:</b> <code>amalvelayudhan96@gmail.com</code></p>
+      <p align="left">
+        <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge&logo=probot&logoColor=white&color=00ff41" />
+        <img src="https://img.shields.io/badge/RANK-ELITE%20DEV-blueviolet?style=for-the-badge&logo=gameloft&logoColor=white" />
+      </p>
+    </td>
+    <td width="40%" align="center">
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-kvs&layout=compact&theme=neon&hide_border=true&title_color=79A500" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ Languages & Tools
-
-#### 📱 Mobile & Web
-<p>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" title="Flutter"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" title="Dart"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40" title="Swift"/>
-  <img src="https://img.icons8.com/color/48/000000/swiftui.png" width="40" title="SwiftUI"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="40" title="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-</p>
-
-#### 🧠 Backend & DevOps
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" title="GoLang"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" title="Firebase"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" title="Linux"/>
-</p>
-
-#### 🎨 Design & UI/UX
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" title="Photoshop"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-lightroom-cc.svg" width="40" title="Lightroom"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc.svg" width="40" title="Illustrator"/>
-</p>
-
-#### ⚙️ Tools & Platforms
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" width="40" title="Jira"/>
-  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" width="40" title="Postman"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/zoho.svg" width="40" title="Zoho"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" title="Android Studio"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift,java,react,go,py,firebase,figma,ps,linux,postman,git,html,css,js&perline=8&theme=dark" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+<h3 align="center">🎮 SYSTEM INTERACTIVE GAMES</h3>
+<div align="center">
+<table>
+  <tr>
+    <th>♟️ CHESS TOURNAMENT</th>
+    <th>🔴 CONNECT 4 DOTS</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://media.giphy.com/media/9qCnMFHeiUVdVaTihl/giphy.gif" width="50"><br>
+      <a href="https://github.com/amal-kvs/amal-kvs/issues/new?title=Chess:+Move+E2+to+E4"><b>[ MAKE YOUR MOVE ]</b></a>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/Y0slbp1Hr4C8lUA5UG/giphy.gif" width="50"><br>
+      <a href="https://github.com/amal-kvs/amal-kvs/issues/new?title=Connect4:+Put+1"><b>[ DROP TOKEN ]</b></a>
+    </td>
+  </tr>
+</table>
+</div>
+
+---
+
+<h3 align="center">🐍 SYSTEM TRAFFIC (CONTRIBUTION SNAKE)</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amal-kvs/amal-kvs/output/github-contribution-grid-snake.svg" width="100%" alt="snake" />
+</p>
+
+---
+
+<h3 align="center">📊 REAL-TIME TELEMETRY</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amal-kvs&show_icons=true&theme=neon&hide_border=true&rank_icon=github&title_color=79A500" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-kvs&theme=neon&hide_border=true&stroke=79A500" height="180" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amal-kvs&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amal-kvs&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-activity-graph-trinibs-projects.vercel.app/graph?username=amal-kvs&theme=react-dark&hide_border=true&color=79A500&line=79A500&point=8b007e" width="100%">
 </p>
+
+---
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amal-kvs&theme=radical" />
+<b>FUN FACT EVERYDAY🤔 :</b><br>
+<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:79A500,100:00ff41">
+  
+  <p><b>MY STARRED REPOS & TOPICS</b> | <b>FORK THIS PROFILE</b></p>
+  
+  <a href="https://linkedin.com/in/amal-kvs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/amal-kvs"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:79A500,100:00ff41">
+</div>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=amal-kvs&color=79A500&style=for-the-badge">
 </p>
