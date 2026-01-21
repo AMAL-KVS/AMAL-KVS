@@ -57,7 +57,7 @@
 
 <h3 align="center">🐍 SYSTEM TRAFFIC (CONTRIBUTION SNAKE)</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amal-kvs/amal-kvs/output/github-contribution-grid-snake.svg" width="100%" alt="snake" />
+  <img src="https://raw.githubusercontent.com/amal-kvs/amal-kvs/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
 
 ---
@@ -94,7 +94,4 @@
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=amal-kvs&color=79A500&style=for-the-badge">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amal-kvs/amal-kvs/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </p>
